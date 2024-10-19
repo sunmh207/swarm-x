@@ -34,3 +34,7 @@ dotenv -f .env run python -m examples.basic.function_calling
 
 dotenv -f .env run python -m examples.airline.main
 ```
+
+### 4. How to add support for new LLM providers?
+
+Create a new Python class to implement the BaseClient class in the swarm/custom/client/base.py file.
