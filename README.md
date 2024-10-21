@@ -1,10 +1,9 @@
 # Swarm-X
 
-A lightweight multi-agent orchestration framework that is based on the OpenAI Swarm project and adds support for
+A lightweight multi-agent orchestration framework that is based on the [OpenAI Swarm](https://github.com/openai/swarm) project and adds support for
 multiple LLM vendors.
-Currently only supports OpenAI and ZhipuAI.
+Currently only supports [OpenAI](https://openai.com) and [ZhipuAI](https://www.zhipuai.cn).
 
-See [OpenAI Swarm](https://github.com/openai/swarm)
 
 ### 1. Install & Configure environment
 
