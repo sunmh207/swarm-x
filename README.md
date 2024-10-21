@@ -1,3 +1,8 @@
+# README.md
+
+- [English](README.md)
+- [中文](README.zh-CN.md)
+
 # Swarm-X
 
 A lightweight multi-agent orchestration framework that is based on the [OpenAI Swarm](https://github.com/openai/swarm) project and adds support for
@@ -36,4 +41,4 @@ dotenv -f .env run python -m examples.airline.main
 
 ### 4. How to add support for new LLM providers?
 
-Create a new Python class to implement the BaseClient class in the swarm/custom/client/base.py file.
+Create a new Python class to implement the [BaseClient](swarm/custom/client/base.py).
