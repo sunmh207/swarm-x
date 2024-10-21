@@ -6,7 +6,7 @@
 # Swarm-X
 
 一个基于 [OpenAI Swarm](https://github.com/openai/swarm) 项目的轻量级多智能体编排框架，增加了对多个LLM供应商的支持。
-目前仅支持 [OpenAI](https://openai.com) 和 [ZhipuAI](https://www.zhipuai.cn)。
+目前仅支持 [OpenAI](https://openai.com) 和 [ZhipuAI(智谱)](https://www.zhipuai.cn)。
 
 
 ### 1. 安装 & 配置环境
